@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\names\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|solutionrelative:names\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|c:\\users\\josep\\onedrive\\imagens\\source\\repos\\aspnet\\treino_git_c#\\senhas users\\passwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|solutionrelative:senhas users\\passwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,6 +63,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passwords.txt",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\Senhas Users\\Passwords.txt",
+              "RelativeDocumentMoniker": "Senhas Users\\Passwords.txt",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\Senhas Users\\Passwords.txt",
+              "RelativeToolTip": "Senhas Users\\Passwords.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-09T11:18:04.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

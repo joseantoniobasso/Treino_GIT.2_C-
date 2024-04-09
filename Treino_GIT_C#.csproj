@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <Folder Include="names\" />
+    <Folder Include="Senhas Users\" />
   </ItemGroup>
 
 </Project>
