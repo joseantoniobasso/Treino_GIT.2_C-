@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|c:\\users\\josep\\onedrive\\imagens\\source\\repos\\aspnet\\treino_git_c#\\names\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\names\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|solutionrelative:names\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -70,8 +70,7 @@
               "RelativeToolTip": "names\\names.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-09T10:48:40.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T10:48:40.365Z"
             },
             {
               "$type": "Document",
@@ -81,7 +80,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T10:12:32.355Z",
               "EditorCaption": ""
