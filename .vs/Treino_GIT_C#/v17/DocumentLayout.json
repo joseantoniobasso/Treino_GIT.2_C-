@@ -68,9 +68,10 @@
               "RelativeDocumentMoniker": "names\\names.txt",
               "ToolTip": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\names\\names.txt",
               "RelativeToolTip": "names\\names.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-09T10:48:40.365Z"
+              "WhenOpened": "2024-04-09T10:48:40.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,7 +81,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T10:12:32.355Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Treino_GIT_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+440a96b68e851b1ec90523b75d3bbd9000f34e3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0902326b72e3eddf8bfbae22a463cb6c000353e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Treino_GIT_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Treino_GIT_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
