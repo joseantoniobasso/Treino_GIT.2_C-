@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\Treino_GIT_C#.csproj",
+      "projectUniqueName": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\Treino_GIT_C#.csproj",
       "projectName": "Treino_GIT_C#",
-      "projectPath": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\Treino_GIT_C#.csproj",
+      "projectPath": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\Treino_GIT_C#.csproj",
       "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\obj\\",
+      "outputPath": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",

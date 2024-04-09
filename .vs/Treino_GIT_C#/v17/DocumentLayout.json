@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\",
+  "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|c:\\users\\josep\\onedrive\\imagens\\source\\repos\\aspnet\\treino_git_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|c:\\users\\josep\\onedrive\\imagens\\source\\repos\\aspnet\\treino_git.2_c-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\names\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\names\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|solutionrelative:names\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|c:\\users\\josep\\onedrive\\imagens\\source\\repos\\aspnet\\treino_git_c#\\senhas users\\passwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\senhas users\\passwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{020D82BD-3A97-4D19-813E-E0B6DE5797A6}|Treino_GIT_C#.csproj|solutionrelative:senhas users\\passwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -68,37 +68,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Passwords.txt",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\Senhas Users\\Passwords.txt",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\Senhas Users\\Passwords.txt",
               "RelativeDocumentMoniker": "Senhas Users\\Passwords.txt",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\Senhas Users\\Passwords.txt",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\Senhas Users\\Passwords.txt",
               "RelativeToolTip": "Senhas Users\\Passwords.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-09T11:18:04.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T11:18:04.429Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "names.txt",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\names\\names.txt",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\names\\names.txt",
               "RelativeDocumentMoniker": "names\\names.txt",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\names\\names.txt",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\names\\names.txt",
               "RelativeToolTip": "names\\names.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-09T10:48:40.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T10:48:40.365Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Imagens\\Source\\repos\\AspNet\\Treino_GIT.2_C-\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T10:12:32.355Z",
               "EditorCaption": ""
